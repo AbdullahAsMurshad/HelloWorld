@@ -1,6 +1,10 @@
 
 public class Driver {
 	public  static void main(String[] args) {
-		System.out.print("Hello  world");
+		printHelloWorld();
+	}
+	public  static void  printHelloWorld() {
+		System.out.print("Hello world");
+
 	}
 }
